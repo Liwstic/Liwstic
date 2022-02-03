@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Litiele!
+- 👋 Hi, I’m Liti!
 - 🌱 I’m currently learning HTML, CSS and UX/ UI Design.
 - 📫 How to reach me: https://www.linkedin.com/in/litiele-cunha-56b316225/
 
