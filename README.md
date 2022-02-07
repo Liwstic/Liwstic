@@ -1,7 +1,13 @@
-## 👋 Hi, I’m Liti!
+## ✨ Hi, I’m Liti! ✨
 
-- 🌱 I’m currently learning HTML, CSS and UX/ UI Design.
-
+- ✨ I’m currently learning HTML, CSS and UX/ UI Design.
+- 
+<div align="center">
+  <a href="https://github.com/Liwstic">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+   
 <div>
    <img align="right" alt="Liti-pic" height="150" style="border-radius:50px;" src="https://share-cdn.picrew.me/shareImg/org/202202/1446612_ROdHUpjW.png">
 </div>
